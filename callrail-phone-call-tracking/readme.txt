@@ -2,7 +2,7 @@
 Contributors: apowellgt
 Tags: call tracking, analytics, seo, ppc, adwords, conversion tracking, optimization
 Requires at least: 3.0
-Tested up to: 6.4.2
+Tested up to: 6.7.2
 Stable tag: 0.5.3
 
 Dynamically swap CallRail tracking phone numbers based on the visitor's referring source.
