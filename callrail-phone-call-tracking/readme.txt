@@ -1,8 +1,8 @@
 === CallRail Phone Call Tracking ===
 Contributors: apowellgt
-Tags: call tracking, analytics, seo, ppc, adwords, conversion tracking, optimization
+Tags: call tracking, analytics, seo, adwords, conversion tracking
 Requires at least: 3.0
-Tested up to: 6.7.2
+Tested up to: 6.9.1
 Stable tag: 0.5.3
 
 Dynamically swap CallRail tracking phone numbers based on the visitor's referring source.
